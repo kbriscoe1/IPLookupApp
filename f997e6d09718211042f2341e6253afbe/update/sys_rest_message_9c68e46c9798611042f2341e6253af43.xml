@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>no_authentication</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description>Lookup stock market vaules</description>
+        <name>StockQuote</name>
+        <oauth2_profile/>
+        <protocol_name/>
+        <rest_endpoint>https://cloud.iexapis.com/</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-06 14:36:55</sys_created_on>
+        <sys_id>9c68e46c9798611042f2341e6253af43</sys_id>
+        <sys_name>StockQuote</sys_name>
+        <sys_package display_value="IPLookup" source="x_596459_iplookup">f997e6d09718211042f2341e6253afbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">f997e6d09718211042f2341e6253afbe</sys_scope>
+        <sys_update_name>sys_rest_message_9c68e46c9798611042f2341e6253af43</sys_update_name>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
